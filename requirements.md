@@ -42,6 +42,11 @@
 5. **Documentação**:
    - **README.md**: O projeto inclui um arquivo README.md com instruções claras sobre como configurar e rodar a aplicação frontend?
    - **Comentários no Código**: O código inclui comentários úteis que explicam partes complexas ou importantes da implementação?
+  
+## Envio do Projeto
+O candidato deve enviar o link do repositório (GitHub) contendo o código-fonte do projeto, junto com um arquivo README.md explicando como configurar e executar a aplicação.
+
+Boa sorte!
 
 ## Recursos Adicionais
 
